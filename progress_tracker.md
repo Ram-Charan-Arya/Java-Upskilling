@@ -2,7 +2,7 @@
 
 | Day | Focus Area | Tasks | Status | Notes |
 |-----|------------|-------|--------|-------|
-| 1   | Java Core + OOP | - Java Basics (types, loops, OOP) <br> - Build small CLI app <br> - 2 LeetCode Easy |[X] Not Started |  |
+| 1   | Java Core + OOP | - Java Basics (types, loops, OOP) <br> - Build small CLI app <br> - 2 LeetCode Easy |[ X ] Not Started |  |
 | 2   | Java 8+ Features | - Streams, Lambdas, Optionals <br> - Refactor Day 1 app <br> - LeetCode (Stream-related) | ⬜ Not Started |  |
 | 3   | Design Patterns | - Singleton, Factory, Strategy <br> - Pattern-based mini app | ⬜ Not Started |  |
 | 4   | Exceptions & Testing | - JUnit, Mockito basics <br> - Test a service layer | ⬜ Not Started |  |
